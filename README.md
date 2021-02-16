@@ -1,2 +1,2 @@
-# ultramarine
-A modern CSS framework
+# Ultramarine
+The modern CSS framework
