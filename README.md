@@ -8,5 +8,5 @@ The modern CSS framework
 ![GitHub last commit](https://img.shields.io/github/last-commit/metrik-tech/ultramarine?style=flat)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/metrik-tech/ultramarine?label=size&style=flat)
 ![GitHub all releases](https://img.shields.io/github/downloads/metrik-tech/ultramarine/total?style=flat)
-![Made by Metrik](https://badgen.net/badge/icon/Made%20by%20Metriik?icon=https://mcdn.netlify.app/img/metrik-logo-white.png&label&color=black&labelColor=black)
+![Made by Metrik](https://badgen.net/badge/icon/Made%20by%20Metrik?icon=https://mcdn.netlify.app/img/metrik-logo-white.png&label&color=black&labelColor=black)
 
