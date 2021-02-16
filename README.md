@@ -1,3 +1,3 @@
 # Ultramarine
 The modern CSS framework
-![Version](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![Version](https://img.shields.io/static/v1?label=ultramarine&message=0.1&color=blueviolet&style=flat)
